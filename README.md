@@ -15,7 +15,7 @@ An interactive Hotel Performance Analysis Dashboard built using **Tableau Public
 ## 🚀 Live Dashboard
 
 🔗 **Tableau Public:**  
-<YOUR_TABLEAU_PUBLIC_LINK>
+<https://public.tableau.com/app/profile/krith.thakker/viz/HotelBookingAnalysisTableauProject_17849393717990/HOTELBOOKINGANALYSISDASHBOARD?publish=yes>
 
 ---
 
