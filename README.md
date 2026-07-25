@@ -81,7 +81,7 @@ An interactive Hotel Performance Analysis Dashboard built using **Tableau Public
 **Krith Thakker**
 
 - GitHub: https://github.com/shaan-777
-- LinkedIn: <YOUR_LINKEDIN_PROFILE>
+
 
 ---
 
