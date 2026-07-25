@@ -4,13 +4,6 @@ An interactive Hotel Performance Analysis Dashboard built using **Tableau Public
 
 ---
 
-## 📊 Dashboard Preview
-
-> Add your dashboard screenshot here as **dashboard.png**
-
-![Dashboard Preview](dashboard.png)
-
----
 
 ## 🚀 Live Dashboard
 
